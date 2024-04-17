@@ -1,3 +1,3 @@
 # change-my-money-docs
 
-- [Privacy policy](/privacy)
+- [Privacy policy](/privacy.md)
