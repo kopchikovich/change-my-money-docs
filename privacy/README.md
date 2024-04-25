@@ -40,12 +40,12 @@ We may share personal information as follows:
 
 4. INFORMATION CHOICES AND CHANGES
 
-Our marketing emails tell you how to “opt-out.” You can also manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails. Additionally, you may send a request specifying your communications preferences to kopchikovich@pm.me.
+Our marketing emails tell you how to “opt-out.” You can also manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails. Additionally, you may send a request specifying your communications preferences to change-my-money-app@pm.me
 
 5. CONTACT INFORMATION.
 We welcome your comments or questions about this privacy policy. You may also contact us at our address:
 
-   kopchikovich@pm.me
+   change-my-money-app@pm.me
 
 6. CHANGES TO THIS PRIVACY POLICY.
 We may change this privacy policy. If we make any changes, we will change the Last Updated date above.
